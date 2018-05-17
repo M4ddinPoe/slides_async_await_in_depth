@@ -1,4 +1,4 @@
-# presentation-csharp_asyc_await
+# The slides for my async and await talk
 
 Created with remark.js (http://remarkjs.com/)
 
