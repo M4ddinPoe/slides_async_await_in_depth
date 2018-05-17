@@ -1,2 +1,7 @@
-# slides_async_await_in_depth
-The slides for my async and await tallk
+# presentation-csharp_asyc_await
+
+Created with remark.js (http://remarkjs.com/)
+
+In Firefox, just start the index.html and use right or left arrow keys to navigate through the presentation. Press the P key to start the presenter mode.
+
+Or start the page inside a web server. E.g. by running `python3 -m http.server`. The access the presentation in a web server at http://localhost:8000.
